@@ -1,0 +1,15 @@
+form{
+    width: 50%;
+   margin: auto
+}
+a{
+    text-decoration: none;
+
+}
+
+h2{
+    padding: 100px 50px;
+}
+h2 span {
+    color:rgb(164, 233, 95)
+}

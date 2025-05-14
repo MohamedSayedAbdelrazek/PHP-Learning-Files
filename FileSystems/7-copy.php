@@ -1,0 +1,20 @@
+<?php
+/*
+copy(oldfile,newfile); =====> create new file and copy the content from old file
+*/
+
+// if(!copy("Hello.txt","Hello2.txt"))
+// {
+//     echo "Sory , File Not Copied </br>";
+// }
+// else
+// {
+//     echo "File Has Been Copied </br>";
+// }
+
+function copyMe($extension) 
+{
+$original=__FILE__;
+return copy($original, $original . "." .$extension);
+}
+ copyMe('txt');
