@@ -53,4 +53,4 @@ Try modifying code to test your understanding. This repo is built to help you le
 ---
 
 **Happy learning!**  
-*Made with 💻 by Mohamed Sayed*
+*Made by Mohamed Sayed💻*
